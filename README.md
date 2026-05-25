@@ -34,27 +34,26 @@
 
 ## Установка и запуск
 
-1. Клонируйте репозиторий:
+## 1. Клонируйте репозиторий:
 
 
 
-https://github.com/mychinasa23/ML.git
+- https://github.com/mychinasa23/ML.git
 
-cd ML
-
-
-
-2. Установите зависимости:
+- cd ML
 
 
 
-pip install -r requirements.txt
+## 2. Установите зависимости:
+
+
+- pip install -r requirements.txt
 
 
 
-3. Запустите Jupyter Notebook:
+## 3. Запустите Jupyter Notebook:
 
 
 
-jupyter notebook project.ipynb
+- jupyter notebook project.ipynb
 
