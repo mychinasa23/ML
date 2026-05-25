@@ -54,7 +54,7 @@ jupyter notebook project.ipynb
 ML/
 ├── project.ipynb           # Jupyter Notebook (обучение, графики, анализ)
 ├── twitter-posts.csv       # датасет с постами
-└── requirements.txt        # зависимости проекта
+└── requirements.txt        # список библиотек
 ```
 
 ## Рекомендация
